@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+"10u","C1","Capacitor_SMD:C_0805_2012Metric","C15850"
+"3","CR2032","Battery:BatteryHolder_Keystone_3009_1x2450","C70380"
+"LED","D2","LED_SMD:LED_PLCC_2835","C516126"
+"AO3400A","Q1","Package_TO_SOT_SMD:SOT-23","C91104"
+"470K","R1,R2","Resistor_SMD:R_0805_2012Metric","C17709"
+"120","R3","Resistor_SMD:R_1206_3216Metric","C17909"
+"SW_Push","SW1","Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A","C318884"
